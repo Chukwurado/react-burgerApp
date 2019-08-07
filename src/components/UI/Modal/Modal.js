@@ -14,9 +14,6 @@ class Modal extends Component {
     return false;
   }
 
-  componentWillUpdate() {
-    console.log("Modal will update");
-  }
   render() {
     return (
       <>
