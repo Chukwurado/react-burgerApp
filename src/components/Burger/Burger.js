@@ -9,6 +9,7 @@ function Burger({ ingredients }) {
       });
     })
     .flat();
+
   if (ingredientArray.length === 0) {
     ingredientArray = <p>Please start adding ingredients</p>;
   }
