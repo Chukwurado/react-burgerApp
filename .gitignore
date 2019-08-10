@@ -24,3 +24,4 @@ src/hoc/Aux.js
 /.firebase
 .firebase
 firebase.json
+/src/apikey.js
