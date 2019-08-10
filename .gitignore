@@ -21,3 +21,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 src/hoc/Aux.js
+/.firebase
+.firebase
+firebase.json
